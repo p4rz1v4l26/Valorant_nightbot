@@ -42,10 +42,12 @@ Here is an example for my account. This would work for most accounts.
 
 # Commands for Nightbot/streamlabs
 
-1. !addcom !rank $(urlfetch https://api.kyroskoh.xyz/valorant/v1/mmr/region/name/tag?show=combo&display=1)
+1. !addcom !rank $(urlfetch https://api.kyroskoh.xyz/valorant/v1/mmr/region/username/tag)
 
-2. !addcom !rank $(urlfetch https://api.kyroskoh.xyz/valorant/v1/mmr/region/name/tag?show=all&display=1)
+2. !addcom !rank $(urlfetch https://api.kyroskoh.xyz/valorant/v1/mmr/region/name/tag?show=combo&display=1)
 
-3. !addcom !rank $(urlfetch https://api.kyroskoh.xyz/valorant/v1/mmr/region/name/tag?show=all&display=0)
+3. !addcom !rank $(urlfetch https://api.kyroskoh.xyz/valorant/v1/mmr/region/name/tag?show=all&display=1)
 
-# Make sure to replace region,name
+4. !addcom !rank $(urlfetch https://api.kyroskoh.xyz/valorant/v1/mmr/region/name/tag?show=all&display=0)
+
+### Make sure to replace region,name
