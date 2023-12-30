@@ -22,15 +22,15 @@ I'm just trying to explain it in simple way
 | latam       | Latin America        |
 | na          | North America        |
 
-2. Copy the following code and paste it in the output of whatever custom command you want to create.
-(it will only display Rank with RR)<br> 
+### Copy the following code and paste it in the output of whatever custom command you want to create.
+1. If you want to display only Rank with RR<br> 
 `$(urlfetch https://api.kyroskoh.xyz/valorant/v1/mmr/region/username/tag)`
 
-3. If you want your name and tag to be shown then add use: <BR>`$(urlfetch https://api.kyroskoh.xyz/valorant/v1/mmr/region/name/tag?show=combo&display=1)`
+2. If you want your name and tag to be shown then add use: <BR>`$(urlfetch https://api.kyroskoh.xyz/valorant/v1/mmr/region/name/tag?show=combo&display=1)`
 
-4. If you want to display the ID, Tag, Region with rank, RR and Elo : <BR> `$(urlfetch https://api.kyroskoh.xyz/valorant/v1/mmr/region/name/tag?show=all&display=1)`
+3. If you want to display the ID, Tag, Region with rank, RR and Elo : <BR> `$(urlfetch https://api.kyroskoh.xyz/valorant/v1/mmr/region/name/tag?show=all&display=1)`
 
-5. if you don't want to display ID Tag,but Region with showing rank, RR and Elo: <BR> `$(urlfetch https://api.kyroskoh.xyz/valorant/v1/mmr/region/name/tag?show=all&display=0)`
+4. if you don't want to display ID Tag,but Region with showing rank, RR and Elo: <BR> `$(urlfetch https://api.kyroskoh.xyz/valorant/v1/mmr/region/name/tag?show=all&display=0)`
 
 # Examples
 
