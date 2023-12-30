@@ -52,4 +52,4 @@ Here is an example for my account. This would work for most accounts.
 
 ### Make sure to replace region,name
 
-## If you have any doubt feel free to contact me on discord @p4rz1v4l26 or join server `https://discord.gg/JgFbRWHQEf`
+## If you have any doubt feel free to contact me on discord @p4rz1v4l26 or join server https://discord.gg/JgFbRWHQEf
