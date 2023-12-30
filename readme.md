@@ -51,3 +51,5 @@ Here is an example for my account. This would work for most accounts.
 4. !addcom !rank $(urlfetch https://api.kyroskoh.xyz/valorant/v1/mmr/region/name/tag?show=all&display=0)
 
 ### Make sure to replace region,name
+
+## If you have any doubt feel free to contact me on discord @p4rz1v4l26 or join server `https://discord.gg/JgFbRWHQEf`
