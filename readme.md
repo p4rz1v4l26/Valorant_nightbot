@@ -40,7 +40,7 @@ Here is an example for my account. This would work for most accounts.
   * Account Region: `Asia/Pacific`
   * URL: `$(urlfetch https://api.kyroskoh.xyz/valorant/v1/mmr/AP/AMJ P4RZ1V4L/2610)`
 
-# Commands for Nightbot/streamlabs
+# Commands for Nightbot
 
 1. !addcom !rank $(urlfetch https://api.kyroskoh.xyz/valorant/v1/mmr/region/username/tag)
 
