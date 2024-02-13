@@ -36,9 +36,9 @@ I'm just trying to explain it in simple way
 
 Here is an example for my account. This would work for most accounts.
 + Example 
-  * Username: `AMJ P4RZ1V4L#2610`
+  * Username: `P4RZ1V4L#2610`
   * Account Region: `Asia/Pacific`
-  * URL: `$(urlfetch https://api.kyroskoh.xyz/valorant/v1/mmr/AP/AMJ P4RZ1V4L/2610)`
+  * URL: `$(urlfetch https://api.kyroskoh.xyz/valorant/v1/mmr/AP/P4RZ1V4L/2610)`
 
 # Commands for Nightbot
 
