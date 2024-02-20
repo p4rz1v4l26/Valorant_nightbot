@@ -2,7 +2,7 @@
 This API lets you fetch your rank dynamically, typically for making **!rank** command in your Twitch/YouTube stream.
 
 **This API is developed and maintained by @kyroskoh and you can check it out here 'https://community.nightdev.com/t/custom-api-valorant-mmr-rank-api-v1/30536'**<br>
-I'm just trying to explain it in simple way
+
 
 ### THIS AVAILABLE FOR ALL REGIONS
 
