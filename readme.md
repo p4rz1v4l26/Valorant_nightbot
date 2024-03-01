@@ -57,7 +57,7 @@ Here is an example for my account. This would work for most accounts.
 If you have any questions or inquiries, please feel free to get in touch:
 
 - Email: avinash26.ftw@gmail.com
-- Discord: p4rz1v4l26
+- Discord: @p4rz1v4l26
 
 or you can join 
 - [Discord server](https://discord.gg/vFWB2KGcH9)
