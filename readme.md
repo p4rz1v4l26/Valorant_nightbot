@@ -4,11 +4,11 @@ This API lets you fetch your rank dynamically, typically for making **!rank** co
 **This API is developed and maintained by @kyroskoh and you can check it out here 'https://community.nightdev.com/t/custom-api-valorant-mmr-rank-api-v1/30536'**<br>
 
 
-### THIS AVAILABLE FOR ALL REGIONS
+### THIS IS AVAILABLE FOR ALL REGIONS
 
 # StreamElements/NightBot Usage
 
-1. Replace `region` with your account's region code, `name` with your Valorant username and `tag` with your hashtag.
+Replace `region` with your account's region code, `name` with your Valorant username and `tag` with your hashtag.
 
 
 ## Region Codes
@@ -53,6 +53,17 @@ This API lets you fetch your rank dynamically, typically for making **!rank** co
 
 <hr>
 
+# Example
+
+Here is an example for my account. This would work for most accounts.
++ Example 
+  * Username: `P4RZ1V4L#2610`
+  * Account Region: `Asia/Pacific`
+  * URL: `$(urlfetch https://api.kyroskoh.xyz/valorant/v1/mmr/AP/P4RZ1V4L/2610)`
+
+
+<hr>
+
 ## Other Commands
 
 1. Last ranked match rank points changes: <br>
@@ -65,23 +76,35 @@ This API lets you fetch your rank dynamically, typically for making **!rank** co
 ```
 3. Win loss in last 24 Hrs.
 ```bash
-!addcom !winlosr $(urlfetch https://api.kyroskoh.xyz/valorant/v1/winlose/region/name/tag)
+!addcom !winlose $(urlfetch https://api.kyroskoh.xyz/valorant/v1/winlose/region/name/tag)
 ```
 
 <hr>
 
-# Examples
+## You can make custom combinations also 
 
-Here is an example for my account. This would work for most accounts.
-+ Example 
-  * Username: `P4RZ1V4L#2610`
-  * Account Region: `Asia/Pacific`
-  * URL: `$(urlfetch https://api.kyroskoh.xyz/valorant/v1/mmr/AP/P4RZ1V4L/2610)`
+e.g. 
+* add 
+``` bash
+?show=all&display=1
+```
+ as a prefix it will show all details like name , tag and region .
 
+ * add 
+``` bash
+?show=rronly&display=0
+```
+ as a prefix it will show only rank rating and hide other details. 
+
+ and many more 
+ <hr>
+
+ ##### If you want to make a dynamic command for chat which allows chat to find their own info such as Rank , lastmatch , lastcomp and etc contact me i would love to help.
 
 <hr>
 
-## Contact
+
+## Contact Details
 
 If you have any questions or inquiries, please feel free to get in touch:
 
