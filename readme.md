@@ -68,7 +68,7 @@ This API lets you fetch your rank dynamically, typically for making **!rank** co
 !addcom !winlosr $(urlfetch https://api.kyroskoh.xyz/valorant/v1/winlose/region/name/tag)
 ```
 
-
+<hr>
 
 # Examples
 
