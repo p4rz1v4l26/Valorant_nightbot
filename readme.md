@@ -26,14 +26,14 @@ This API lets you fetch your rank dynamically, typically for making **!rank** co
 <hr>
 
 # Commands for Nightbot
+<hr>
+
 ## Rank only
 
 1. If you want to display only Rank with RR<br>
  ``` bash
    !addcom !rank $(urlfetch https://api.kyroskoh.xyz/valorant/v1/mmr/region/username/tag)
  ```
-
-
 
 2. If you want your name and tag to be shown then use: <br>
 ``` bash
@@ -49,7 +49,26 @@ This API lets you fetch your rank dynamically, typically for making **!rank** co
 ```bash
    !addcom !rank $(urlfetch https://api.kyroskoh.xyz/valorant/v1/mmr/region/name/tag?show=all&display=0)
    ```
+   ### Make sure to replace region,name
+
 <hr>
+
+## Other Commands
+
+1. Last ranked match rank points changes: <br>
+``` bash 
+ !addcom !lastcomp $(urlfetch https://api.kyroskoh.xyz/valorant/v1/mmrchange/region/name/tag)
+```
+2. Last match Stats:<br>
+```bash
+!addcom !lastmatch $(urlfetch https://api.kyroskoh.xyz/valorant/v1/lastmatchstats/region/name/tag)
+```
+3. Win loss in last 24 Hrs.
+```bash
+!addcom !winlosr $(urlfetch https://api.kyroskoh.xyz/valorant/v1/winlose/region/name/tag)
+```
+
+
 
 # Examples
 
@@ -60,7 +79,6 @@ Here is an example for my account. This would work for most accounts.
   * URL: `$(urlfetch https://api.kyroskoh.xyz/valorant/v1/mmr/AP/P4RZ1V4L/2610)`
 
 
-### Make sure to replace region,name
 <hr>
 
 ## Contact
