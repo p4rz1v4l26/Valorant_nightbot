@@ -32,7 +32,7 @@ This API lets you fetch your rank dynamically, typically for making **!rank** co
 
 
 
-2. If you want your name and tag to be shown then add use: <br>
+2. If you want your name and tag to be shown then use: <br>
 ``` bash
    !addcom !rank $(urlfetch https://api.kyroskoh.xyz/valorant/v1/mmr/region/name/tag?show=combo&display=1)
    ```
