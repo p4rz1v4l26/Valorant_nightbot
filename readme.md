@@ -24,6 +24,7 @@ This API lets you fetch your rank dynamically, typically for making **!rank** co
 
 
 <hr>
+
 # Commands for Nightbot
 ## Rank only
 
@@ -49,6 +50,7 @@ This API lets you fetch your rank dynamically, typically for making **!rank** co
    !addcom !rank $(urlfetch https://api.kyroskoh.xyz/valorant/v1/mmr/region/name/tag?show=all&display=0)
    ```
 <hr>
+
 # Examples
 
 Here is an example for my account. This would work for most accounts.
@@ -60,6 +62,7 @@ Here is an example for my account. This would work for most accounts.
 
 ### Make sure to replace region,name
 <hr>
+
 ## Contact
 
 If you have any questions or inquiries, please feel free to get in touch:
