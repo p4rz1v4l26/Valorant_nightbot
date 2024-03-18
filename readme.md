@@ -109,7 +109,7 @@ e.g.
 If you have any questions or inquiries, please feel free to get in touch:
 
 - Email: avinash.warale@yandex.com
-- Discord: @p4rz1v4l26
+- Discord: [@p4rz1v4l26](https://discordapp.com/users/896411007797325824/)
 
 or you can join 
 - [Discord server](https://discord.gg/vFWB2KGcH9)
