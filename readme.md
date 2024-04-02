@@ -99,7 +99,7 @@ e.g.
  and many more 
  <hr>
 
- ##### If you want to make a dynamic command for chat which allows chat to find their own info such as Rank , lastmatch , lastcomp and etc contact me i would love to help.
+ #### If you want to make a dynamic command for chat which allows chat to find their own info such as Rank , lastmatch , lastcomp and etc contact me i would love to help.
 
 <hr>
 
