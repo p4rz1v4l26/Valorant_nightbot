@@ -1,3 +1,13 @@
+# Its not working any more
+## check out the [new repo](https://github.com/p4rz1v4l26/ValPilot)
+
+<hr>
+<hr>
+<hr>
+<hr>
+
+for the ref
+
 # Chat-Valorant-Rank
 This API lets you fetch your rank dynamically, typically for making **!rank** command in your Twitch/YouTube stream.
 
